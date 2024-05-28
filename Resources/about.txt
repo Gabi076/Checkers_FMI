@@ -1,0 +1,5 @@
+﻿	Checkers este un joc clasic pentru doi jucători, jucat pe o tablă de șah. Scopul este să capturezi sau să blochezi piesele adversarului. Piesele se mișcă diagonal și pot captura piesele adversarului sărind peste ele. Obiectivul este de a elimina toate piesele adversarului sau de a bloca toate mișcările acestuia.
+
+Program creat de: Titescu Gabriel
+Adresa e-mail: gabriel.titescu@student.unitbv.ro
+Grupa: 10LF323
